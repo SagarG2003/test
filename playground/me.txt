@@ -1,5 +1,0 @@
-{{#user}}
-Name: Sagar Guney
-Skills: HTML, CSS, JS, Cloud Computing, DevOps
-Email: sagarguney@gmail.com
-{{/user}}
